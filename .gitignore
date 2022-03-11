@@ -3,6 +3,8 @@
 .DS_Store
 
 # Datasets
-data/
+images/
 out/
-
+report/
+*.zip
+*docx
